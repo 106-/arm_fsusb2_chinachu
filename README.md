@@ -1,0 +1,2 @@
+# arm_fsusb2_chinachu
+arm+fsusb2の環境(raspberrypiなど)の環境でchinachuを動かすdockerfile
